@@ -43,7 +43,7 @@
 
 #define major_version (10) 
 #define minor_version (12) 
-#define micro_version (1) 
+#define micro_version (2) 
 
 
  enum NrfjprogErrorCodesType {
